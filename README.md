@@ -36,10 +36,10 @@
 ## 📂 Featured Projects
 
 ### 🔹 [ResultShodh](https://github.com/shital2005421/resultshodh)
-A brief description of what the project does, technologies used, and any interesting features.
 
-### 🔹 [SehatBridge](https://github.com/shital2005421/sehatbridge)
-Details about this app or tool, how it works, and why it's useful.
+
+### 🔹 [MyUpasthiti](https://github.com/shital2005421/MyUpasthiti)
+
 
 ### 🔹 [More Projects →](https://github.com/shital2005421?tab=repositories)
 
